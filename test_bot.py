@@ -1,5 +1,5 @@
-from .bot import SimpleBot
+from .bot import ComplicatedBot
 
 
 def test_init():
-    SimpleBot(track=None)
+    ComplicatedBot(track=None)
